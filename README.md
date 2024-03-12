@@ -1,2 +1,4 @@
 # CSCI3251_LAIKaiHong
-This is the project of LAI Kai Hong
+Hello, I am LAI Kai Hong!
+My Student number is 1155174609!
+I will pull my project later
